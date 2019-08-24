@@ -1,0 +1,9 @@
+//Javascript comment: Rishav Singh
+// -> used for inline comment and also called single line comment
+
+/*  */ //-> used for inline comment and also called single line comment
+
+/* both the symbols are common in
+   other programming languages like
+   c, c++ and java.
+*/
